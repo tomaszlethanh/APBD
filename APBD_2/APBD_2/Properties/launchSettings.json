@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "APBD_2": {
+      "commandName": "Project",
+      "commandLineArgs": "./Data/dane.csv json ./Data/result"
+    }
+  }
+}

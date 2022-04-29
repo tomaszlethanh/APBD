@@ -1,0 +1,17 @@
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\bin\Debug\net5.0\APBD_2.exe
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\bin\Debug\net5.0\APBD_2.deps.json
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\bin\Debug\net5.0\APBD_2.runtimeconfig.json
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\bin\Debug\net5.0\APBD_2.runtimeconfig.dev.json
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\bin\Debug\net5.0\APBD_2.dll
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\bin\Debug\net5.0\ref\APBD_2.dll
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\bin\Debug\net5.0\APBD_2.pdb
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\obj\Debug\net5.0\APBD_2.csprojAssemblyReference.cache
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\obj\Debug\net5.0\APBD_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\obj\Debug\net5.0\APBD_2.AssemblyInfoInputs.cache
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\obj\Debug\net5.0\APBD_2.AssemblyInfo.cs
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\obj\Debug\net5.0\APBD_2.csproj.CoreCompileInputs.cache
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\obj\Debug\net5.0\APBD_2.dll
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\obj\Debug\net5.0\ref\APBD_2.dll
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\obj\Debug\net5.0\APBD_2.pdb
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\obj\Debug\net5.0\APBD_2.genruntimeconfig.cache
+D:\Users\Dat\VSProjects\cwiczenia2_lacrit-s21216\APBD_2\APBD_2\bin\Debug\net5.0\Data\dane.csv

@@ -1,0 +1,4 @@
+Pusta wartość w linii numer: 12
+Pusta wartość w linii numer: 13
+Pusta wartość w linii numer: 23
+Pusta wartość w linii numer: 92
